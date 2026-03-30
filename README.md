@@ -64,7 +64,10 @@ In your terminal, navigate to the root directory of the repository. Run the foll
 		options:
 		  -h, --help     show this help message and exit
 		  --plate PLATE  License plate number to verify
+		  
+## 🔗 Additional Resources
 
+- License Plate Owner API: https://license-plate-owner.com/ (DPPA-compliant vehicle lookup API built by a licensed private investigator)
 
 ### Author: Edgar Medina
 edgar.medina.m.ed@protonmail.com
